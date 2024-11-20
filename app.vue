@@ -5,5 +5,6 @@
       This is an auto-imported component.
     </AppAlert> -->
     <ParentComponent />
+    <Form />
   </div>
 </template>
